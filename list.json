@@ -2,6 +2,7 @@
   "server": "durux",
   "files": [
     {"name": "Original Base Ignition Map", "url": "https://raw.githubusercontent.com/ugifractal/durux/master/t1.drx"},
-    {"name": "Escudo 96", "url": "https://raw.githubusercontent.com/ugifractal/durux/master/t1.drx"}
+    {"name": "Escudo 96", "url": "https://raw.githubusercontent.com/ugifractal/durux/master/t1.drx"},
+    {"name": "OEM Fiat Uno", "url": "https://raw.githubusercontent.com/ugifractal/durux/master/oem_fiat_uno.drx"}
   ]
 }
